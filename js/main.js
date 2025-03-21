@@ -3,19 +3,19 @@ const cursos = [
         titulo: "Croissants Clásicos",
         descripcion: "Aprende la técnica tradicional francesa para crear croissants perfectamente laminados.",
         precio: "$299",
-        img: "img/curso1.jpg"
+        img: "img/curso1.JPG"
     },
     {
         titulo: "Laminado nivel 1",
         descripcion: "Aprende la técnica tradicional francesa para crear croissants perfectamente laminados.",
         precio: "$299",
-        img: "img/curso2.jpg"
+        img: "img/curso2.JPG"
     },
     {
         titulo: "Laminados nivel 2",
         descripcion: "Aprende la técnica tradicional francesa para crear croissants perfectamente laminados.",
         precio: "$299",
-        img: "img/curso3.jpg"
+        img: "img/curso3.JPG"
     }
 ];
 const asesoriaServicios=[
